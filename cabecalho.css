@@ -1,0 +1,35 @@
+.cabecalho {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    display: flex;
+    flex-direction:row;
+    height: 180px;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.titulo {
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;  
+}
+
+.titulo__logo {
+    width: 5%;
+    
+}
+
+.cabecalho__a {
+    height: 50px;
+    width: 50px;
+}
+
+.cabecalho__carrinho {
+    width: 100%;
+         
+}
+
+.cabecalho__usuario {
+    width: 100%;
+     
+}
