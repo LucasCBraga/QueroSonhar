@@ -81,7 +81,11 @@ body {
 }
 
 
-   
-   
+@media screen and (min-width: 1024px) {
+    
+.lista__ofertas {
+    padding-left: 1rem;
+}   
 
+}
  
