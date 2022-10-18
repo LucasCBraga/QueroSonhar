@@ -1,0 +1,87 @@
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.lista__ofertas {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 2.5rem; 
+    margin-left: 2.5rem;
+    padding-left: 7rem;
+    
+      
+    
+}
+
+.titulo__oferta {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    padding-top: 2.75rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.produtos__oferta {
+    width: 23%;
+    padding-top: 3rem; 
+    
+}
+
+.produto__imagem {
+    width: 11.5rem;
+    height: 20.0rem;
+    align-self: flex-end;   
+}
+
+.produto__nome {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    text-align: left;
+
+}
+
+.produto__preco {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+}
+
+.produto__comprar {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    color: black;
+    padding-top: .5rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+   
+}
+
+.produto__comprar--icone {
+    display: inline-block;
+    width: 31px;
+    height: 26px;
+    margin-left: 1.5rem;
+    
+    background-image: url(../img/comprar.png);
+    background-repeat: no-repeat;
+   
+}
+
+
+   
+   
+
+ 
