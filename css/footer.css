@@ -1,0 +1,40 @@
+.rodape  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+}
+
+.logo__rodape {
+    width: 120px;
+    height: 200px;
+}
+
+.texto__rodape {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.rodape__social {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rodape__midia {
+    width: 60px;
+    height: 60px;
+}
+
+hr {
+    margin-top: 1;
+    
+}
+
+
+
+
