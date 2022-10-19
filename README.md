@@ -8,5 +8,5 @@ Adjustments and Improvements
  - Task 1 (X) - Header
  - Task 2 (X) - Products info
  - Task 3 (X) - Producs Prices and button to buy
- - Task 4 ( ) - Footer
+ - Task 4 (X) - Footer
  - Task 5 ( ) - Final Adjustments
