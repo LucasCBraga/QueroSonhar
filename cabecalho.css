@@ -1,7 +1,6 @@
 .cabecalho {
     display: flex;
     flex-direction:row;
-    height: 180px;
     justify-content:space-around;
     align-items: center;
 }
@@ -13,7 +12,7 @@
 }
 
 .titulo__logo {
-    width: 5%;
+    width: 100px;
     
 }
 
@@ -30,4 +29,30 @@
 .cabecalho__usuario {
     width: 100%;
      
+}
+
+@media(max-width:768px) {
+    
+.cabecalho {
+    flex-direction: column;
+    padding-top: .5rem;
+}
+
+.titulo__logo {
+    width: 100px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.cabecalho__usuario {
+    width: 50px;
+    
+}
+
+.cabecalho__carrinho {
+    width: 50px;
+    padding-top: 2rem;
+    
+}
+
 }

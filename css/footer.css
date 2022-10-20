@@ -36,6 +36,25 @@ hr {
     
 }
 
+@media(max-width:768px) {
+
+.logo__rodape {
+    width: 60px;
+    height: 100px;
+}
+
+.texto__rodape {
+    font-size: 12px;
+}
+
+.rodape__social {
+    
+    flex-direction: column;
+}
+
+
+}
+
 
 
 

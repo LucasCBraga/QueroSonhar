@@ -12,6 +12,7 @@
     font-size: 32px;
     font-weight: 400;
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .texto__chamada {
@@ -19,6 +20,7 @@
     font-size: 18px;
     font-weight: 400;
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .input__chamada {
@@ -53,4 +55,25 @@
 .botao:hover {
     cursor: pointer;
     transform: scale(1.1);
+}
+
+@media (max-width:768px) {
+
+.input__chamada {
+    width: 80%;
+}
+
+.botao {
+    width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
 }
