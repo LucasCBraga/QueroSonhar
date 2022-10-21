@@ -1,0 +1,21 @@
+.mapa {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.titulo__mapa {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 2rem;
+}
+
+@media(max-width:768px) {
+    .mapa__{
+        width: auto;
+    }
+
+
+}
+    
