@@ -3,6 +3,12 @@
 
 Website for the QueroSonhar store, this is a challenge from Conquiste sua vaga, where i can test my dev skills.
 
+ Technologies used <br>
+• HTML <br>
+• CSS
+
+
+
 Adjustments and Improvements
 
  - Task 1 (X) - Header
