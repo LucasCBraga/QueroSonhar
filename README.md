@@ -9,7 +9,6 @@ Website for the QueroSonhar store, this is a challenge from Conquiste sua vaga, 
 • HTML <br>
 • CSS
 
-<hr>
 
 Adjustments and Improvements
 
